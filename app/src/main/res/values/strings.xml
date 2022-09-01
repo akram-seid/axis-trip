@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">axis-trip</string>
+    <string name="label_start">Start:</string>
+    <string name="label_destination">Destination:</string>
+    <string name="dembel">Dembel</string>
+    <string name="mexico">Mexico</string>
+    <string name="km">4KM</string>
+    <string name="price">ETB 200.00</string>
+    <string name="cars">3</string>
+    <string name="seats">No. of seats</string>
+    <string name="ok">OK</string>
+    <string name="person">Example Person person</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="trip_success">Trip Completed Successfully!</string>
+    <string name="mileage">Traveled: 4KM</string>
+    <string name="commision">Commission: ETB 12.00</string>
+    <string name="revenue">Net: ETB 200.00</string>
+</resources>
