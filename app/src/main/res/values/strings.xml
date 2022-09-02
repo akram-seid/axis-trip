@@ -16,4 +16,7 @@
     <string name="mileage">Traveled: 4KM</string>
     <string name="commision">Commission: ETB 12.00</string>
     <string name="revenue">Net: ETB 200.00</string>
+    <string name="passengers">No. of Passengers</string>
+    <string name="start">Start</string>
+    <string name="plate">03-A43543-AA</string>
 </resources>

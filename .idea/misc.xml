@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/passenger_row.xml" value="0.5791666666666667" />
-        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/route_row.xml" value="0.33" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/confirm_trip.xml" value="0.1641025641025641" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/driver_floating.xml" value="0.2" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/passenger_count.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/passenger_floating.xml" value="0.2" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/passenger_row.xml" value="0.2" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/route_row.xml" value="0.2" />
         <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/seat_row.xml" value="0.19895833333333332" />
-        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/seats_count_row.xml" value="1.0" />
-        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/trip_complete.xml" value="0.22" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/seats_count_row.xml" value="0.2" />
+        <entry key="..\:/Users/Mint/AndroidStudioProjects/axistrip/app/src/main/res/layout/trip_complete.xml" value="0.2" />
       </map>
     </option>
   </component>
